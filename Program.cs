@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 
 namespace raupjc_hw1
 {
@@ -7,6 +8,7 @@ namespace raupjc_hw1
     {
         public static void Main(string[] args)
         {
+            IntegerList lista = new IntegerList();
         }
     }
 }
